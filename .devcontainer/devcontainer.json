@@ -1,0 +1,9 @@
+{
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "workbench.colorTheme": "Default Dark Modern"
+            }
+        }
+    }
+}
